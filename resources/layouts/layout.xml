@@ -1,0 +1,7 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <label id="TimeLabel" x="75%" y="41%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="TimeLabelMiddle" x="50%" y="45%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+	<label id="StepCountDisplay" x="75%" y="52%" font="Graphics.FONT_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id = "WhateverDisplay" x="75%" y= "30%" font = "Graphics.FONT_MEDIUM" justification = "Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>

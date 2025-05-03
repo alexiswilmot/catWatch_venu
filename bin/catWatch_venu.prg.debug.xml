@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="1" lineNum="8" parent="globals/Background" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="1" lineNum="9" parent="globals/Background" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="1" lineNum="13" parent="globals/Background" pc="268435481" symbol="initialize"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="2" lineNum="16" parent="globals/Background" pc="268435502" symbol="draw"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="2" lineNum="18" parent="globals/Background" pc="268435506" symbol="draw"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="2" lineNum="19" parent="globals/Background" pc="268435555" symbol="draw"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268438050" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268438050" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="5" lineNum="12" parent="globals/catWatch_venuView" pc="268435568" symbol="initialize"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="5" lineNum="13" parent="globals/catWatch_venuView" pc="268435572" symbol="initialize"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="6" lineNum="19" parent="globals/catWatch_venuView" pc="268435591" symbol="onLayout"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="6" lineNum="20" parent="globals/catWatch_venuView" pc="268435595" symbol="onLayout"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="7" lineNum="27" parent="globals/catWatch_venuView" pc="268435633" symbol="onShow"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="31" parent="globals/catWatch_venuView" pc="268435638" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="38" parent="globals/catWatch_venuView" pc="268435642" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="39" parent="globals/catWatch_venuView" pc="268435655" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="40" parent="globals/catWatch_venuView" pc="268435662" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="41" parent="globals/catWatch_venuView" pc="268435679" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="42" parent="globals/catWatch_venuView" pc="268435689" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="43" parent="globals/catWatch_venuView" pc="268435714" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="44" parent="globals/catWatch_venuView" pc="268435725" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="47" parent="globals/catWatch_venuView" pc="268435741" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="48" parent="globals/catWatch_venuView" pc="268435769" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="49" parent="globals/catWatch_venuView" pc="268435776" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="52" parent="globals/catWatch_venuView" pc="268435797" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="53" parent="globals/catWatch_venuView" pc="268435862" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="57" parent="globals/catWatch_venuView" pc="268435862" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="62" parent="globals/catWatch_venuView" pc="268435886" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="63" parent="globals/catWatch_venuView" pc="268435923" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="66" parent="globals/catWatch_venuView" pc="268435937" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="67" parent="globals/catWatch_venuView" pc="268435965" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="69" parent="globals/catWatch_venuView" pc="268435982" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="70" parent="globals/catWatch_venuView" pc="268436016" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="74" parent="globals/catWatch_venuView" pc="268436056" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="82" parent="globals/catWatch_venuView" pc="268436076" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="83" parent="globals/catWatch_venuView" pc="268436087" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="84" parent="globals/catWatch_venuView" pc="268436124" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="86" parent="globals/catWatch_venuView" pc="268436151" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="87" parent="globals/catWatch_venuView" pc="268436176" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="88" parent="globals/catWatch_venuView" pc="268436213" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="90" parent="globals/catWatch_venuView" pc="268436240" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="91" parent="globals/catWatch_venuView" pc="268436265" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="92" parent="globals/catWatch_venuView" pc="268436302" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="94" parent="globals/catWatch_venuView" pc="268436329" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="95" parent="globals/catWatch_venuView" pc="268436354" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="96" parent="globals/catWatch_venuView" pc="268436391" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="98" parent="globals/catWatch_venuView" pc="268436418" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="99" parent="globals/catWatch_venuView" pc="268436429" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="8" lineNum="100" parent="globals/catWatch_venuView" pc="268436466" symbol="onUpdate"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="9" lineNum="111" parent="globals/catWatch_venuView" pc="268436494" symbol="onHide"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="10" lineNum="115" parent="globals/catWatch_venuView" pc="268436499" symbol="onExitSleep"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="11" lineNum="119" parent="globals/catWatch_venuView" pc="268436504" symbol="onEnterSleep"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="12" lineNum="122" parent="globals/catWatch_venuView" pc="268436509" symbol="&lt;globals/catWatch_venuView/&lt;&gt;getStepsPercent&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="12" lineNum="123" parent="globals/catWatch_venuView" pc="268436513" symbol="&lt;globals/catWatch_venuView/&lt;&gt;getStepsPercent&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="12" lineNum="124" parent="globals/catWatch_venuView" pc="268436564" symbol="&lt;globals/catWatch_venuView/&lt;&gt;getStepsPercent&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="128" parent="globals/catWatch_venuView" pc="268436568" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="129" parent="globals/catWatch_venuView" pc="268436572" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="130" parent="globals/catWatch_venuView" pc="268436579" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="131" parent="globals/catWatch_venuView" pc="268436611" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="133" parent="globals/catWatch_venuView" pc="268436611" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="138" parent="globals/catWatch_venuView" pc="268436635" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="139" parent="globals/catWatch_venuView" pc="268436670" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="13" lineNum="140" parent="globals/catWatch_venuView" pc="268436711" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="144" parent="globals/catWatch_venuView" pc="268436726" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="145" parent="globals/catWatch_venuView" pc="268436730" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="146" parent="globals/catWatch_venuView" pc="268436737" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="147" parent="globals/catWatch_venuView" pc="268436748" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="148" parent="globals/catWatch_venuView" pc="268436899" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="149" parent="globals/catWatch_venuView" pc="268436910" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="150" parent="globals/catWatch_venuView" pc="268436934" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="152" parent="globals/catWatch_venuView" pc="268437003" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="154" parent="globals/catWatch_venuView" pc="268437013" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="155" parent="globals/catWatch_venuView" pc="268437024" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="156" parent="globals/catWatch_venuView" pc="268437039" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="157" parent="globals/catWatch_venuView" pc="268437059" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="159" parent="globals/catWatch_venuView" pc="268437124" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="161" parent="globals/catWatch_venuView" pc="268437134" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="162" parent="globals/catWatch_venuView" pc="268437145" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="163" parent="globals/catWatch_venuView" pc="268437169" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="165" parent="globals/catWatch_venuView" pc="268437238" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="169" parent="globals/catWatch_venuView" pc="268437248" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="170" parent="globals/catWatch_venuView" pc="268437272" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="14" lineNum="171" parent="globals/catWatch_venuView" pc="268437313" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="15" lineNum="9" parent="globals/catWatch_venuView" pc="268438118" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuView.mc" id="15" lineNum="9" parent="globals/catWatch_venuView" pc="268438118" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="17" lineNum="7" parent="globals/catWatch_venuApp" pc="268437328" symbol="initialize"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="17" lineNum="8" parent="globals/catWatch_venuApp" pc="268437332" symbol="initialize"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="18" lineNum="12" parent="globals/catWatch_venuApp" pc="268437351" symbol="onStart"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="19" lineNum="16" parent="globals/catWatch_venuApp" pc="268437356" symbol="onStop"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="20" lineNum="20" parent="globals/catWatch_venuApp" pc="268437361" symbol="getInitialView"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="20" lineNum="21" parent="globals/catWatch_venuApp" pc="268437365" symbol="getInitialView"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="21" lineNum="25" parent="globals/catWatch_venuApp" pc="268437403" symbol="onSettingsChanged"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="21" lineNum="26" parent="globals/catWatch_venuApp" pc="268437407" symbol="onSettingsChanged"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="22" lineNum="5" parent="globals/catWatch_venuApp" pc="268438069" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="22" lineNum="5" parent="globals/catWatch_venuApp" pc="268438069" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="23" lineNum="31" parent="globals" pc="268437424" symbol="getApp"/>
+        <entry filename="/Users/nottaylor629/Documents/Alex/Eclipse/catWatch_venu/source/catWatch_venuApp.mc" id="23" lineNum="32" parent="globals" pc="268437436" symbol="getApp"/>
+        <entry filename="Rez" id="25" lineNum="2" parent="globals/Rez/Drawables" pc="268438112" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="11" parent="globals/Rez/Fonts" pc="268438114" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="13" parent="globals/Rez/JsonData" pc="268438116" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="22" parent="globals/Rez/Layouts" pc="268437453" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="24" parent="globals/Rez/Layouts" pc="268437465" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="25" parent="globals/Rez/Layouts" pc="268437478" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="27" parent="globals/Rez/Layouts" pc="268437491" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="28" parent="globals/Rez/Layouts" pc="268437515" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="29" parent="globals/Rez/Layouts" pc="268437634" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="30" parent="globals/Rez/Layouts" pc="268437753" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="31" parent="globals/Rez/Layouts" pc="268437872" symbol="WatchFace"/>
+        <entry filename="Rez" id="28" lineNum="33" parent="globals/Rez/Layouts" pc="268437991" symbol="WatchFace"/>
+        <entry filename="Rez" id="29" lineNum="15" parent="globals/Rez/Layouts" pc="268438115" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="38" parent="globals/Rez/Menus" pc="268438113" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="40" parent="globals/Rez/Strings" pc="268438117" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="1" parent="globals/Rez" pc="268438088" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="1" parent="globals/Rez" pc="268438088" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="27" symbol="ColorYellow"/>
+        <entry field="true" id="8388737" symbol="calories"/>
+        <entry field="true" id="31" symbol="ColorRed"/>
+        <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+        <entry field="true" id="24" symbol="ShowStepsTitle"/>
+        <entry field="true" id="23" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="20" symbol="ColorBlue"/>
+        <entry field="true" id="29" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="38" method="true" symbol="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="28" symbol="Nothing"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="16" symbol="cat100"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="22" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="35" symbol="ColorWhite"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="25" symbol="ColorBlack"/>
+        <entry field="true" id="26" symbol="ShowDate"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="10" object="true" symbol="catWatch_venuApp"/>
+        <entry id="37" method="true" symbol="&lt;globals/catWatch_venuView/&lt;&gt;getStepsPercent&gt;"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="9" object="true" symbol="catWatch_venuView"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="30" symbol="ShowStairs"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="18" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="33" symbol="WhatElseTitle"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="21" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="34" symbol="ShowCalories"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="8389872" symbol="floorsClimbed"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="15" symbol="cat75"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="14" symbol="cat50"/>
+        <entry field="true" id="13" symbol="cat25"/>
+        <entry field="true" id="19" symbol="ColorLightGray"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="39" method="true" symbol="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;"/>
+        <entry field="true" id="36" symbol="ShowHeartRate"/>
+        <entry field="true" id="32" symbol="ForegroundColorTitle"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="17" symbol="catEmpty"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435500" name="dictionary" stackId="1" startPc="268435460"/>
+        <entry arg="true" endPc="268435567" name="dc" stackId="1" startPc="268435502"/>
+        <entry arg="true" endPc="268435632" name="dc" stackId="1" startPc="268435591"/>
+        <entry endPc="268436147" name="cat100" stackId="8" startPc="268436087"/>
+        <entry endPc="268436236" name="cat75" stackId="9" startPc="268436176"/>
+        <entry endPc="268436325" name="cat50" stackId="10" startPc="268436265"/>
+        <entry endPc="268436414" name="cat25" stackId="11" startPc="268436354"/>
+        <entry endPc="268436489" name="catEmpty" stackId="12" startPc="268436429"/>
+        <entry endPc="268436492" name="view" stackId="7" startPc="268435642"/>
+        <entry endPc="268436492" name="hours" stackId="5" startPc="268435642"/>
+        <entry endPc="268436492" name="percentage" stackId="2" startPc="268435642"/>
+        <entry endPc="268436492" name="timeString" stackId="6" startPc="268435642"/>
+        <entry endPc="268436492" name="clockTime" stackId="4" startPc="268435642"/>
+        <entry endPc="268436492" name="timeFormat" stackId="3" startPc="268435642"/>
+        <entry arg="true" endPc="268436493" name="dc" stackId="1" startPc="268435638"/>
+        <entry endPc="268436566" name="percentage" stackId="1" startPc="268436513"/>
+        <entry endPc="268436724" name="stepsFormat" stackId="2" startPc="268436572"/>
+        <entry endPc="268436724" name="stepView" stackId="4" startPc="268436572"/>
+        <entry endPc="268436724" name="stepNum" stackId="3" startPc="268436572"/>
+        <entry endPc="268436724" name="stepString" stackId="5" startPc="268436572"/>
+        <entry arg="true" endPc="268436725" name="percentage" stackId="1" startPc="268436568"/>
+        <entry endPc="268437120" name="activity" stackId="3" startPc="268437039"/>
+        <entry endPc="268437326" name="infoView" stackId="4" startPc="268436730"/>
+        <entry endPc="268437326" name="info" stackId="2" startPc="268436730"/>
+        <entry arg="true" endPc="268437327" name="option" stackId="1" startPc="268436726"/>
+        <entry arg="true" endPc="268437355" name="state" stackId="1" startPc="268437351"/>
+        <entry arg="true" endPc="268437360" name="state" stackId="1" startPc="268437356"/>
+        <entry endPc="268438047" name="rez_cmp_local_text_WhateverDisplay" stackId="8" startPc="268437465"/>
+        <entry endPc="268438047" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268437465"/>
+        <entry endPc="268438047" name="rez_cmp_local_text_TimeLabel" stackId="5" startPc="268437465"/>
+        <entry endPc="268438047" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268437465"/>
+        <entry endPc="268438047" name="rez_cmp_local_text_StepCountDisplay" stackId="7" startPc="268437465"/>
+        <entry endPc="268438047" name="rez_cmp_local_custom_drawable_16133311016846795119" stackId="4" startPc="268437465"/>
+        <entry endPc="268438047" name="rez_cmp_local_text_TimeLabelMiddle" stackId="6" startPc="268437465"/>
+        <entry arg="true" endPc="268438048" name="dc" stackId="1" startPc="268437453"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="cat25"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="cat50"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="cat75"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="cat100"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="catEmpty"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowStepsTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowDate"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorYellow"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Nothing"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowStairs"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="WhatElseTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowCalories"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ShowHeartRate"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/catWatch_venuApp" offset="221" parentId="globals" symbolId="catWatch_venuApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="300" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="379" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="559" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="590" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/catWatch_venuView" offset="765" parentId="globals" symbolId="catWatch_venuView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435501" name="initialize" parent="Background" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435567" name="draw" parent="Background" startPc="268435502">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438068" name="&lt;init&gt;" parent="Background" startPc="268438050">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435590" name="initialize" parent="catWatch_venuView" startPc="268435568">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435632" name="onLayout" parent="catWatch_venuView" startPc="268435591">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435637" name="onShow" parent="catWatch_venuView" startPc="268435633">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436493" name="onUpdate" parent="catWatch_venuView" startPc="268435638">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436498" name="onHide" parent="catWatch_venuView" startPc="268436494">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436503" name="onExitSleep" parent="catWatch_venuView" startPc="268436499">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436508" name="onEnterSleep" parent="catWatch_venuView" startPc="268436504">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436567" name="&lt;globals/catWatch_venuView/&lt;&gt;getStepsPercent&gt;" parent="catWatch_venuView" startPc="268436509">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436725" name="&lt;globals/catWatch_venuView/&lt;&gt;setStepDisplay&gt;" parent="catWatch_venuView" startPc="268436568">
+            <param id="percentage"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437327" name="&lt;globals/catWatch_venuView/&lt;&gt;showInfo&gt;" parent="catWatch_venuView" startPc="268436726">
+            <param id="option"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438136" name="&lt;init&gt;" parent="catWatch_venuView" startPc="268438118">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437350" name="initialize" parent="catWatch_venuApp" startPc="268437328">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437355" name="onStart" parent="catWatch_venuApp" startPc="268437351">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437360" name="onStop" parent="catWatch_venuApp" startPc="268437356">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437402" name="getInitialView" parent="catWatch_venuApp" startPc="268437361">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437423" name="onSettingsChanged" parent="catWatch_venuApp" startPc="268437403">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438087" name="&lt;init&gt;" parent="catWatch_venuApp" startPc="268438069">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437452" name="getApp" startPc="268437424">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438112" name="&lt;init&gt;" parent="Drawables" startPc="268438112">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438114" name="&lt;init&gt;" parent="Fonts" startPc="268438114">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438116" name="&lt;init&gt;" parent="JsonData" startPc="268438116">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438048" name="WatchFace" parent="Layouts" startPc="268437453">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438115" name="&lt;init&gt;" parent="Layouts" startPc="268438115">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438113" name="&lt;init&gt;" parent="Menus" startPc="268438113">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438117" name="&lt;init&gt;" parent="Strings" startPc="268438117">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438111" name="&lt;init&gt;" parent="Rez" startPc="268438088">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

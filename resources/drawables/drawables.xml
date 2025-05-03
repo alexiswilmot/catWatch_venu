@@ -1,0 +1,8 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="cat25" filename="../images/cat25_v.png" />
+    <bitmap id="cat50" filename="../images/cat50_v.png"/>
+    <bitmap id="cat75" filename="../images/cat75_v.png"/>
+    <bitmap id="cat100" filename="../images/cat100_v.png"/>
+    <bitmap id="catEmpty" filename="../images/cat0_v.png" />
+</drawables>
